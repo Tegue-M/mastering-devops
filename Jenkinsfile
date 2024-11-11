@@ -25,7 +25,7 @@ environment {
                               "files": [
                                 {
                                   "pattern": "jarstaging/(*)",
-                                  "target": "ttrend-libs-release-local/{1}",
+                                  "target": "atlas-libs-release-local/{1}",
                                   "flat": "false",
                                   "props" : "${properties}",
                                   "exclusions": [ "*.sha1", "*.md5"]
