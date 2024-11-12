@@ -1,6 +1,6 @@
 def registry = 'https://atlasacademy.jfrog.io/'
 def imageName = 'atlasacademy.jfrog.io/atlas-docker-local/ttrend'
-def version   = '2.1.2'
+def version   = '2.1.3'
 
 pipeline {
     agent {
